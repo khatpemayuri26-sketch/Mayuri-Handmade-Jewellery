@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Traditional Designer Nath",
+    "category": "Nath",
+    "price": 499,
+    "image": "nath.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Handcrafted Mangalsutra",
+    "category": "Mangalsutra",
+    "price": 899,
+    "image": "mangalsutra.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Traditional Challa",
+    "category": "Challa",
+    "price": 699,
+    "image": "challa.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Designer Ear Cuffs",
+    "category": "Ear Cuffs",
+    "price": 349,
+    "image": "ear cuffs.jpeg"
+  }
+]
